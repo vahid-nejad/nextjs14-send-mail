@@ -4,5 +4,9 @@
       "path": "."
     }
   ],
-  "settings": { "prettier.printWidth": 80, "editor.wordWrap": "on" }
+  "settings": {
+    "prettier.printWidth": 75,
+    "editor.wordWrap": "on",
+    "window.zoomLevel": 0
+  }
 }
